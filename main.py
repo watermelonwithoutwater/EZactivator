@@ -7,7 +7,7 @@ import webbrowser
 import stripe
 from database import sign_up, login_in
 
-stripe.api_key = "sk_test_51TIv44RF77RBnyjJRDcMY4SUqtEOYF78OBe9vSV3HwiBYyHCrQPMcAN8R9ldTOGJXZT4xN9K6GaQ6C0EWBptVthJ00KZC02gJ4"
+stripe.api_key = "Paste your Key Here"
 
 
 class App(ctk.CTk):
